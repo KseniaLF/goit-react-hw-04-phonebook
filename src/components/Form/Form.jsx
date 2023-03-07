@@ -1,6 +1,6 @@
+import PropTypes from 'prop-types';
 import { Formik } from 'formik';
 import { object, string } from 'yup';
-import PropTypes from 'prop-types';
 
 import { FormikForm, Input, Errorform } from './Form.styled';
 
